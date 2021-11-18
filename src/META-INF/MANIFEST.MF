@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.burg113.Main
+Class-Path: com\burg113
+
